@@ -1,2 +1,2 @@
 # Fisher-Yates-Shuffle
-This program demonstrates an understanding of the fisher yates shuffle.
+This program demonstrates an understanding of the fisher yates shuffle. The demonstration is that of shuffle a deck of cards. Though not all 52 cards, it takes cards Ace through King, Ace High, and shuffles them into a new arrangement where then the player can play High or Low. The program uses the random method and multiple variables for sorting in order to shuffle the deck. 
